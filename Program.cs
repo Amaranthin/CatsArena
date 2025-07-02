@@ -8,6 +8,8 @@ namespace CatsArena
         {
             Cathlete.Cathletes = ReadWrite.LoadAthletesFromCsv();
             Display.MainMenu();
+
+            //katev01 test
         }
     }
 }
