@@ -10,6 +10,8 @@ namespace CatsArena
             Display.MainMenu();
 
             //katev01 test
+
+            //dobavqm text na 02-07 ...
         }
     }
 }
